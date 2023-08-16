@@ -1,2 +1,2 @@
 # BuyMe
- e-commerce Website
+ A simple e-commerce website.
